@@ -16,5 +16,5 @@ terraform {
 }
 ```
 
-# Setup Github & Snyk Token
-![alt text](image.png)  
+# Setup Github Token 
+![alt text](image-1.png)   
