@@ -27,7 +27,7 @@ module "eks" {
   eks_managed_node_groups = {
     learner_ng = {
       ami_type       = "AL2023_x86_64_STANDARD"
-      instance_types = ["t3.large"]
+      instance_types = ["t3.medium"]
       min_size       = 3
       max_size       = 3
       desired_size   = 3
