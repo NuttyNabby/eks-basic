@@ -1,5 +1,5 @@
 locals {
-  name_prefix = "Avengers"
+  name_prefix = "Nabilah"
 }
 
 module "eks" {
