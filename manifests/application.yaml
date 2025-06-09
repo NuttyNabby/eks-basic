@@ -8,7 +8,7 @@ spec:
   source:
     repoURL: "https://github.com/NuttyNabby/eks-basic.git"
     targetRevision: main
-    path: manifests
+    path: argo-app
   destination:
     server: https://kubernetes.default.svc
     namespace: my-app
